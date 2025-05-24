@@ -1,0 +1,7 @@
+Season 1: Mess around with the Chapter.txt file!
+	001 - Tutorial
+Season 2: These are season names by the way.
+	002 - Wsg
+	003 - Filler
+Season 3: Side-effect, pressing next/previous buttons on a chapter which isn't named like the .png file will crash the program whenever you switch to another chapter, albeit with the previous/next/chapter select buttons lmao.
+	004 - Nvm
