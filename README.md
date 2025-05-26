@@ -1,6 +1,12 @@
 # Basic-MangaReader
 
 _A simple program to view vertical media split into chapters._<br>
+
+[![Downloads Badge][downloads-shield]][downloads-url]
+<!-- Downloads Badge -->
+[downloads-shield]: https://img.shields.io/github/downloads/FFProjects0/Basic-MangaReader/total.svg?style=flat&label=Downloads&labelColor=001224&color=1DB954
+[downloads-url]: https://github.com/FFProjects0/Basic-MangaReader/releases
+
 [!Releases](https://github.com/FFProjects0/Basic-MangaReader/releases)
 
 # Gallery
